@@ -10,7 +10,7 @@ import Head from "next/head";
 import Button from "../components/Button";
 import Link from "next/link";
 import Cursor from "../components/Cursor";
-
+import ExperienceCard from "../components/ExperienceCard";
 // Local Data
 import data from "../data/portfolio.json";
 
@@ -18,6 +18,9 @@ export default function Home() {
   // Ref
   const workRef = useRef();
   const aboutRef = useRef();
+  const qualificationRef = useRef();
+  const experienceRef = useRef();
+  const contactRef = useRef();
   const textOne = useRef();
   const textTwo = useRef();
   const textThree = useRef();
@@ -35,6 +38,27 @@ export default function Home() {
   const handleAboutScroll = () => {
     window.scrollTo({
       top: aboutRef.current.offsetTop,
+      left: 0,
+      behavior: "smooth",
+    });
+  };
+  const handleQualificationScroll = () => {
+    window.scrollTo({
+      top: qualificationRef.current.offsetTop,
+      left: 0,
+      behavior: "smooth",
+    });
+  };
+  const handleExperienceScroll = () => {
+    window.scrollTo({
+      top: experienceRef.current.offsetTop,
+      left: 0,
+      behavior: "smooth",
+    });
+  };
+  const handleContactScroll = () => {
+    window.scrollTo({
+      top: contactRef.current.offsetTop,
       left: 0,
       behavior: "smooth",
     });
@@ -62,6 +86,9 @@ export default function Home() {
         <Header
           handleWorkScroll={handleWorkScroll}
           handleAboutScroll={handleAboutScroll}
+          handleExperienceScroll={handleExperienceScroll}
+          handleQualificationScroll={handleQualificationScroll}
+          handleContactScroll={handleContactScroll}
         />
         <div className="laptop:mt-20 mt-10">
           <div className="mt-5">
@@ -90,28 +117,16 @@ export default function Home() {
               {data.headerTaglineFour}
             </h1>
           </div>
-
-          <Socials className="mt-2 laptop:mt-5" />
         </div>
-        <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={workRef}>
-          <h1 className="text-2xl text-bold">Work.</h1>
-
-          <div className="mt-5 laptop:mt-10 grid grid-cols-1 tablet:grid-cols-2 gap-4">
-            {data.projects.map((project) => (
-              <WorkCard
-                key={project.id}
-                img={project.imageSrc}
-                name={project.title}
-                description={project.description}
-                onClick={() => window.open(project.url)}
-              />
-            ))}
-          </div>
+        <div className="mt-2 laptop:mt-8 p-2 laptop:p-0" ref={aboutRef}>
+          <h1 className="tablet:m-10 text-2xl text-bold">About me:</h1>
+          <p className="tablet:m-10 mt-2 text-xl laptop:text-3xl w-full laptop:w-3/5">
+            {data.aboutpara}
+          </p>
         </div>
-
-        <div className="mt-10 laptop:mt-30 p-2 laptop:p-0">
-          <h1 className="tablet:m-10 text-2xl text-bold">Services.</h1>
-          <div className="mt-5 tablet:m-10 grid grid-cols-1 laptop:grid-cols-2 gap-6">
+        <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={qualificationRef}>
+          <h1 className="tablet:m-10 text-2xl text-bold">Education and Qualifications:</h1>
+          <div className="mt-5 tablet:m-10 grid grid-cols-1 laptop:grid-cols-2 gap-6 whitespace-pre-line">
             {data.services.map((service, index) => (
               <ServiceCard
                 key={index}
@@ -121,6 +136,36 @@ export default function Home() {
             ))}
           </div>
         </div>
+        <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={experienceRef}>
+          <h1 className="tablet:m-10 text-2xl text-bold">Works and Experiences:</h1>
+          <div className="mt-5 tablet:m-10 grid grid-cols-1 laptop:grid-cols-2 gap-6 whitespace-pre-line">
+            {data.experiences.map((service, index) => (
+              <ExperienceCard
+                key={index}
+                name={service.title}
+                description={service.description}
+              />
+            ))}
+          </div>
+        </div>
+        <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={workRef}>
+          <h1 className="text-2xl text-bold">Projects:</h1>
+
+          <div className="mt-5 laptop:mt-10 grid grid-cols-1 tablet:grid-cols-2 gap-4 whitespace-pre-line">
+            {data.projects.map((project) => (
+              <WorkCard
+                key={project.id}
+                img={project.imageSrc}
+                name={project.title}
+                description={project.description}
+                url={project.url}
+                onClick={() => window.open(project.url)}
+              />
+            ))}
+          </div>
+        </div>
+
+        
         {/* This button should not go into production */}
         {process.env.NODE_ENV === "development" && (
           <div className="fixed bottom-5 right-5">
@@ -129,13 +174,9 @@ export default function Home() {
             </Link>
           </div>
         )}
-        <div className="mt-10 laptop:mt-40 p-2 laptop:p-0" ref={aboutRef}>
-          <h1 className="tablet:m-10 text-2xl text-bold">About.</h1>
-          <p className="tablet:m-10 mt-2 text-xl laptop:text-3xl w-full laptop:w-3/5">
-            {data.aboutpara}
-          </p>
-        </div>
+        <div ref={contactRef}>
         <Footer />
+        </div>
       </div>
     </div>
   );

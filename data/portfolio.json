@@ -1,1 +1,166 @@
-{"name":"Chetan","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Chetan Verma - curious","headerTaglineThree":"designer and devloper","headerTaglineFour":" based in New Delhi, India.","showCursor":true,"showBlog":true,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/chetanverma16"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/chetanverma7/"},{"id":"3","title":"Twitter","link":"https://twitter.com/realchetanverma"},{"id":"4","title":"Blog","link":"https://blog.chetanverma.com/"},{"id":"5","title":"Email","link":"mailto:hello@chetanverma.com"}],"projects":[{"id":"1","title":"Project One Test","description":"Web Design","imageSrc":"https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"2","title":"Project Two","description":"Web Development","imageSrc":"https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"3","title":"Project Three","description":"Design","imageSrc":"https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"4","title":"Project Four","description":"Marketing","imageSrc":"https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"5","title":"Project Five","description":"Development","imageSrc":"https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"6","title":"Project Six","description":"Design & Development","imageSrc":"https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"}],"services":[{"id":"1","title":"Art Direction","description":"We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},{"id":"2","title":"Branding","description":"We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},{"id":"3","title":"Web Design","description":"We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."},{"id":"4","title":"3D Design","description":"We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."}],"aboutpara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.","resume":{"tagline":"👋  I'm a software engineer, product designer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],"education":{"universityName":"University X","universityDate":"2016-2020","universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},"languages":["Javascript","HTML5","CSS","Python","Go"],"frameworks":["React","Typescript","NodeJs"],"others":["Figma","AdobeXD","AWS"]}}
+{
+  "name": "Minh Duong",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Minh Duong,",
+  "headerTaglineThree": "a Software Developer/IT Specialist,",
+  "headerTaglineFour": "based in Melbourne, Australia.",
+  "showCursor": false,
+  "showBlog": false,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/quangminhduong"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/qminhduong/"
+    },
+    {
+      "id": "3",
+      "title": "Facebook",
+      "link": "https://www.facebook.com/minhginta/"
+    },
+    { "id": "4", "title": "Email", "link": "mailto:minh2811quang@gmail.com" }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Shift manager Pro ",
+      "description": "Description: A Group project to develop a shift managing application with written user storise to demonstrate the features.\nTechs Stack used: \n- HTML/CSS \n- Javalin (a Java Web Framework)\n- SQL\n- Agile methodology\n- Black box testing\n\n- ClickUp",
+      "imageSrc": "https://images.unsplash.com/photo-1501159771943-cc9027db4d8b?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://github.com/SEPM-P3-2/Web-Application"
+    },
+    {
+      "id": "2",
+      "title": "Qwirkle Game",
+      "description": "Description: A Group project to develop a Qwirkle game with user-friendly implementation of game rules and features.\nTechs Stack used: \n- C++ \n- Black box testing\n",
+      "imageSrc": "https://images.unsplash.com/photo-1566694271453-390536dd1f0d?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://github.com/quangminhduong/Qwirkle-Game"
+    },
+    {
+      "id": "3",
+      "title": "My Health Application",
+      "description": "An Individual project to create an application with user-friendly GUI for healthcare professionals to manage patient records \nTechs Stack used: \n- JavaFX (a Java GUI Framework) \n- SQL\n",
+      "imageSrc": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://github.com/quangminhduong/MyHealthApplication"
+    },
+    {
+      "id": "4",
+      "title": "Tower Defence Game",
+      "description": "An Individual project to create a simple game about a tower defence game \nTechs Stack used: \n- Unity Engine (Version 2021.3.15.f1) \n- C# \n- A* path finding algorithm",
+      "imageSrc": "https://images.unsplash.com/photo-1560419015-7c427e8ae5ba?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://github.com/quangminhduong/Tower-Defense-Game"
+    },
+    {
+      "id": "5",
+      "title": "Loop Cinemas",
+      "description": "A full-stack project to create a cinema booking website\nTechs Stack used: \n- ReactJS \n- ExpressJS \n- GraphQL \n- API \n- phpMyAdmin (MySQL)\n- Postman \n- Trello",
+      "imageSrc": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?q=80&w=2650&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://github.com/rmit-fwp-s2-23/3718165-3759757-A1"
+    },
+    {
+      "id": "6",
+      "title": "Magnolia Cakes and Cupcakes Website",
+      "description": "The latest Capstone project to create an e-commerce website for a local business , source code is available upon request. \nTechs Stack used: \n- ReactJS \n- Django (a Python Web Framework) \n- API \n- Google Cloud\n- GoDaddy\n- PostgreSQL\n- Stripe\n- Figma\n- Postman \n- Trello",
+      "imageSrc": "https://images.unsplash.com/photo-1621303837174-89787a7d4729?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://magnoliacake.com.au"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Bachelor of Information Technology",
+      "description": "RMIT University - 2022 \nAwarded with Distinction level"
+    },
+    {
+      "id": "2",
+      "title": "Master of Information Technology",
+      "description": "RMIT University - 2023 \nAwarded with Distinction level"
+    },
+    {
+      "id": "3",
+      "title": "Pearson PTE Academic",
+      "description": "Score: 81/90"
+    },
+    {
+      "id": "4",
+      "title": "Victoria Driver License",
+      "description": ""
+    }
+  ],
+  "experiences": [
+    {
+        "id": "1",
+        "title": "Magnolia Cakes and Cupcakes",
+        "description": "Position: Software Engineer Intern \n Time: 08/2023-11/2023 \nDescription: \n•Worked in a team of 4 to develop an e-commerce website for a business as the Capstone Project for my Master's degree, which received a grade of 88/100 from the course coordinator. \n•Developed the project with ReactJS as the frontend and Django as the backend.\n•Utilize Google Cloud and GoDaddy to host the application. \n•Efficient use of Scrum project management and GitHub to manage the application."
+    },
+    {
+        "id": "2",
+        "title": "RMIT University",
+        "description": "Position: Peer Mentor \n Time: 01/2023-07/2023 \nDescription: \n•Providing guidance and support for students who need help with any programming problems.\n•Assisting with subject content, general study advice, and time management strategies.\n•Work collaboratively with other mentors to fully support the mentees to boost their study significantly.\n•Demonstrating strong communication skills and ability to work in a team environment."
+    },
+    {
+        "id": "3",
+        "title": "Rogue Media",
+        "description": "Position: Software Engineer Intern \n Time: 08/2021-11/2021 \nDescription: \n•Part of a Capstone Project during my bachelor's degree, which received a grade of 88/100 from the course coordinator.\n•Worked in a team of 4 to develop a mobile social media application called “Student on Campus”.\n•Developed the project on the Flutter framework from Dart and managed the database on Google Firebase.\n•Efficient use of Agile project management and GitHub to manage the application."
+    },
+    {
+        "id": "4",
+        "title": "Parco Ramen x Shujinko CBD",
+        "description": "Position: Kitchen hand \n Time: 03/2022-07/2022 \nDescription: Wash the dishes, prepare the ingredients and side dishes, clean, and do closing procedures."
+    },
+    {
+        "id": "5",
+        "title": "The Builder Arms Hotel",
+        "description": "Position: Kitchen hand \n Time: 10/2021-03/2022 \nDescription: Wash the dishes, prepare the ingredients and side dishes, clean, and do closing procedures."
+    },
+    {
+    "id": "6",
+    "title": "The Wattle Park Chalet",
+    "description": "Position: Waiter \n Time: 1/2021-10/2021 \nDescription: Serving food and perform customer services for big events like weddings, and funerals, cleaning, and doing opening/closing procedures"
+    },
+    {
+        "id": "7",
+        "title": "Sushi Jiro Glen Waverley",
+        "description": "Position: Waiter \n Time: 12/2020-1/2021 \nDescription: Serving food, taking orders, perform customer services, cleaning, and doing opening/closing procedures"
+    },
+    {
+      "id": "8",
+      "title": "Pho Thin Springvale",
+      "description": "Position: Waiter \n Time: 11/2020-12/2020 \nDescription: Serving food, taking orders, perform customer services, cleaning, and doing opening/closing procedures"
+    }    
+  ],
+  "aboutpara": "A Master level software engineer graduated with top academic results and a full right to work in Australia. Throughout my studies at RMIT, I have completed multiple projects demonstrating my skills and abilities in designing, developing, and testing software applications using various technologies and tools, such as ReactJS, Django, Google Cloud, Flutter, Firebase, Java, Python, C++, GitHub, and Agile. With a strong passion and excitement for software development, I strongly believe that I will make a huge contribution to projects in the industry.",
+  "resume": {
+    "tagline": "👋  I'm a software engineer, product designer.",
+    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "March 2022 - Present",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Bullet One, Bullet Two"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "July 2020 - March 2022",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+      }
+    ],
+    "education": {
+      "universityName": "University X",
+      "universityDate": "2016-2020",
+      "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+    },
+    "languages": ["Javascript", "HTML5", "CSS", "Python", "Go"],
+    "frameworks": ["React", "Typescript", "NodeJs"],
+    "others": ["Figma", "AdobeXD", "AWS"]
+  }
+}

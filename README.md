@@ -31,9 +31,9 @@
 - Next.js
 - TailwindCSS
 
-## This portfolio is built based on the original template made by [@chetanverma16](https://github.com/chetanverma16)
+### This portfolio is built based on the original template made by [@chetanverma16](https://github.com/chetanverma16)
 
-## Access the original template [here](https://github.com/chetanverma16/react-portfolio-template)
+### Access the original template [here](https://github.com/chetanverma16/react-portfolio-template)
 
 ## Awesome Contributors
 [@Aryan3212](https://github.com/Aryan3212) [@achu-krishna](https://github.com/achu-krishna)

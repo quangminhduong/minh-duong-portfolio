@@ -58,16 +58,23 @@
     {
       "id": "5",
       "title": "Loop Cinemas",
-      "description": "A full-stack project to create a cinema booking website\nTechs Stack used: \n- ReactJS \n- ExpressJS \n- GraphQL \n- API \n- phpMyAdmin (MySQL)\n- Postman \n- Trello",
+      "description": "A full-stack project to create a cinema booking website\nTechs Stack used: \n- ReactJS \n- ExpressJS \n- GraphQL \n- HTML \n- Tailwind CSS\n- API \n- phpMyAdmin (MySQL)\n- Postman \n- Trello",
       "imageSrc": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?q=80&w=2650&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "url": "https://github.com/rmit-fwp-s2-23/3718165-3759757-A1"
     },
     {
       "id": "6",
       "title": "Magnolia Cakes and Cupcakes Website",
-      "description": "The latest Capstone project to create an e-commerce website for a local business , source code is available upon request. \nTechs Stack used: \n- ReactJS \n- Django (a Python Web Framework) \n- API \n- Google Cloud\n- GoDaddy\n- PostgreSQL\n- Stripe\n- Figma\n- Postman \n- Trello",
+      "description": "The latest Capstone project to create an e-commerce website for a local business , source code is available upon request. \nTechs Stack used: \n- ReactJS \n- Django (a Python Web Framework)\n- HTML/CSS \n- API \n- Google Cloud\n- GoDaddy\n- PostgreSQL\n- Stripe\n- Figma\n- Postman \n- Trello",
       "imageSrc": "https://images.unsplash.com/photo-1621303837174-89787a7d4729?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "url": "https://magnoliacake.com.au"
+    },
+    {
+      "id": "7",
+      "title": "Portfolio Website",
+      "description": "This website that you are seeing. \nTechs Stack used: \n- NextJS \n- HTML \n- Tailwind CSS\n- Netlify",
+      "imageSrc": "https://images.unsplash.com/photo-1522199755839-a2bacb67c546?q=80&w=2672&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://github.com/quangminhduong/minh-duong-portfolio"
     }
   ],
   "services": [
@@ -96,7 +103,7 @@
     {
         "id": "1",
         "title": "Magnolia Cakes and Cupcakes",
-        "description": "Position: Software Engineer Intern \n Time: 08/2023-11/2023 \nDescription: \n•Worked in a team of 4 to develop an e-commerce website for a business as the Capstone Project for my Master's degree, which received a grade of 88/100 from the course coordinator. \n•Developed the project with ReactJS as the frontend and Django as the backend.\n•Utilize Google Cloud and GoDaddy to host the application. \n•Efficient use of Scrum project management and GitHub to manage the application."
+        "description": "Position: Software Engineer Intern \n Time: 08/2023-11/2023 \nDescription: \n•Worked in a team of 4 to develop an e-commerce website for a local business as the Capstone Project for the master's degree, which received a grade of 88/100 from the supervisor. \n•Developed the project with ReactJS as the frontend and Django as the backend.\n•Utilize Google Cloud and GoDaddy to host the application. \n•Efficient use of Scrum project management and GitHub to manage the application."
     },
     {
         "id": "2",
@@ -106,30 +113,20 @@
     {
         "id": "3",
         "title": "Rogue Media",
-        "description": "Position: Software Engineer Intern \n Time: 08/2021-11/2021 \nDescription: \n•Part of a Capstone Project during my bachelor's degree, which received a grade of 88/100 from the course coordinator.\n•Worked in a team of 4 to develop a mobile social media application called “Student on Campus”.\n•Developed the project on the Flutter framework from Dart and managed the database on Google Firebase.\n•Efficient use of Agile project management and GitHub to manage the application."
+        "description": "Position: Software Engineer Intern \n Time: 08/2021-11/2021 \nDescription: \n•A Capstone Project for the bachelor’s degree, which received a grade of 88/100 from the supervisor.\n•Worked in a team of 4 to develop a mobile social media application called “Student on Campus”.\n•Developed the project on the Flutter framework from Dart and managed the database on Google Firebase.\n•Efficient use of Agile project management and GitHub to manage the application."
     },
     {
-        "id": "4",
-        "title": "Parco Ramen x Shujinko CBD",
-        "description": "Position: Kitchen hand \n Time: 03/2022-07/2022 \nDescription: Wash the dishes, prepare the ingredients and side dishes, clean, and do closing procedures."
-    },
-    {
-        "id": "5",
-        "title": "The Builder Arms Hotel",
-        "description": "Position: Kitchen hand \n Time: 10/2021-03/2022 \nDescription: Wash the dishes, prepare the ingredients and side dishes, clean, and do closing procedures."
-    },
-    {
-    "id": "6",
+    "id": "4",
     "title": "The Wattle Park Chalet",
     "description": "Position: Waiter \n Time: 1/2021-10/2021 \nDescription: Serving food and perform customer services for big events like weddings, and funerals, cleaning, and doing opening/closing procedures"
     },
     {
-        "id": "7",
+        "id": "5",
         "title": "Sushi Jiro Glen Waverley",
         "description": "Position: Waiter \n Time: 12/2020-1/2021 \nDescription: Serving food, taking orders, perform customer services, cleaning, and doing opening/closing procedures"
     },
     {
-      "id": "8",
+      "id": "6",
       "title": "Pho Thin Springvale",
       "description": "Position: Waiter \n Time: 11/2020-12/2020 \nDescription: Serving food, taking orders, perform customer services, cleaning, and doing opening/closing procedures"
     }    

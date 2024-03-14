@@ -124,6 +124,22 @@ export default function Home() {
             {data.aboutpara}
           </p>
         </div>
+        <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={workRef}>
+          <h1 className="text-2xl text-bold">Projects:</h1>
+
+          <div className="mt-5 laptop:mt-10 grid grid-cols-1 tablet:grid-cols-2 gap-4 whitespace-pre-line">
+            {data.projects.map((project) => (
+              <WorkCard
+                key={project.id}
+                img={project.imageSrc}
+                name={project.title}
+                description={project.description}
+                url={project.url}
+                onClick={() => window.open(project.url)}
+              />
+            ))}
+          </div>
+        </div>
         <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={qualificationRef}>
           <h1 className="tablet:m-10 text-2xl text-bold">Education and Qualifications:</h1>
           <div className="mt-5 tablet:m-10 grid grid-cols-1 laptop:grid-cols-2 gap-6 whitespace-pre-line">
@@ -148,22 +164,7 @@ export default function Home() {
             ))}
           </div>
         </div>
-        <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={workRef}>
-          <h1 className="text-2xl text-bold">Projects:</h1>
-
-          <div className="mt-5 laptop:mt-10 grid grid-cols-1 tablet:grid-cols-2 gap-4 whitespace-pre-line">
-            {data.projects.map((project) => (
-              <WorkCard
-                key={project.id}
-                img={project.imageSrc}
-                name={project.title}
-                description={project.description}
-                url={project.url}
-                onClick={() => window.open(project.url)}
-              />
-            ))}
-          </div>
-        </div>
+        
 
         
         {/* This button should not go into production */}

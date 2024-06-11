@@ -104,32 +104,32 @@
     {
         "id": "1",
         "title": "Magnolia Cakes and Cupcakes",
-        "description": "Position: Software Engineer Intern \n Time: 08/2023-11/2023 \nDescription: \n•Worked in a team of 4 to develop an e-commerce website for a local business as the Capstone Project for the master's degree, which received a grade of 88/100 from the supervisor. \n•Developed the project with ReactJS as the frontend and Django as the backend.\n•Utilize Google Cloud and GoDaddy to host the application. \n•Efficient use of Scrum project management and GitHub to manage the application."
+        "description": "Position: Software Engineer Intern \n Time: 08/2023-11/2023 \nDescription: \n•Demonstrated collaboration and problem-solving skills with a team to develop an e-commerce website\n•Demonstrated my ability on React, to develop the frontend, and Django for the backend, utilizing PostgreSQL for database management\n•Deployed the application on Google Cloud and GoDaddy, demonstrating proficiency in cloud services and web hosting\n•Applied Scrum methodologies, and leveraged GitHub and Jira for efficient project management, version control, documentation maintenance, and collaborative development\n•Conducted effective communication through sprint retrospectives and weekly meetings, fostering a cohesive team environment and ensuring alignment with project goals"
     },
     {
         "id": "2",
         "title": "RMIT University",
-        "description": "Position: Peer Mentor \n Time: 01/2023-07/2023 \nDescription: \n•Providing guidance and support for students who need help with any programming problems.\n•Assisting with subject content, general study advice, and time management strategies.\n•Work collaboratively with other mentors to fully support the mentees to boost their study significantly.\n•Demonstrating strong communication skills and ability to work in a team environment."
+        "description": "Position: Peer Mentor \n Time: 01/2023-07/2023 \nDescription: \n•Providing guidance and support for students who need help with any programming problems\n•Assisting with subject content, general study advice, and time management strategies\n•Work collaboratively with other mentors to fully support the mentees to boost their study significantly\n•Demonstrating strong communication skills and ability to work in a team environment"
     },
     {
         "id": "3",
         "title": "Rogue Media",
-        "description": "Position: Software Engineer Intern \n Time: 08/2021-11/2021 \nDescription: \n•A Capstone Project for the bachelor’s degree, which received a grade of 88/100 from the supervisor.\n•Worked in a team of 4 to develop a mobile social media application called “Student on Campus”.\n•Developed the project on the Flutter framework from Dart and managed the database on Google Firebase.\n•Efficient use of Agile project management and GitHub to manage the application."
+        "description": "Position: Software Engineer Intern \n Time: 08/2021-11/2021 \nDescription: \n•Demonstrated collaboration skills with a team to develop \"Student on Campus,\" a mobile application\n•Utilized the Flutter framework to build the application, ensuring a cross-platform and user-friendly experience\n•Managed the database on Google Firebase, demonstrating expertise in cloud-based database management and real-time data synchronization\n•Applied Agile methodologies and leveraged GitHub for efficient project management, version control, documentation maintenance, and collaborative development "
     },
     {
     "id": "4",
     "title": "The Wattle Park Chalet",
-    "description": "Position: Waiter \n Time: 1/2021-10/2021 \nDescription: Serving food and perform customer services for big events like weddings, and funerals, cleaning, and doing opening/closing procedures"
+    "description": "Position: Waiter \n Time: 1/2021-10/2021 \nDescription: \n•Demonstrated excellent customer service skills by promptly delivering food and beverages and addressing any customer concerns or complaints.\n•Performed opening and closing duties such as setting up the dining area, restocking supplies, cleaning dishes and silverware"
     },
     {
         "id": "5",
         "title": "Sushi Jiro Glen Waverley",
-        "description": "Position: Waiter \n Time: 12/2020-1/2021 \nDescription: Serving food, taking orders, perform customer services, cleaning, and doing opening/closing procedures"
+        "description": "Position: Waiter \n Time: 12/2020-1/2021 \nDescription: \nDemonstrated excellent customer service skills by promptly delivering food and beverages and addressing any customer concerns or complaints"
     },
     {
       "id": "6",
       "title": "Pho Thin Springvale",
-      "description": "Position: Waiter \n Time: 11/2020-12/2020 \nDescription: Serving food, taking orders, perform customer services, cleaning, and doing opening/closing procedures"
+      "description": "Position: Waiter \n Time: 11/2020-12/2020 \nDescription: \nShowcased exceptional customer service by efficiently delivering food and beverages and resolving customer concerns or complaints"
     }    
   ],
   "aboutpara": "A Master level software engineer graduated with top academic results and a full right to work in Australia. Throughout my studies at RMIT, I have completed multiple projects demonstrating my skills and abilities in designing, developing, and testing software applications using various technologies and tools, such as ReactJS, Django, Google Cloud, Flutter, Firebase, Java, Python, C++, GitHub, and Agile. With a strong passion and excitement for software development, I strongly believe that I will make a huge contribution to projects in the industry.",

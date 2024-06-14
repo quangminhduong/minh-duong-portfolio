@@ -2,7 +2,7 @@
   "name": "Quang Minh Duong",
   "headerTaglineOne": "Hello 👋",
   "headerTaglineTwo": "I'm Minh,",
-  "headerTaglineThree": "a Software Developer,",
+  "headerTaglineThree": "a Software Developer/ICT Support Engineer,",
   "headerTaglineFour": "based in Melbourne, Australia.",
   "showCursor": false,
   "showBlog": false,
@@ -73,7 +73,7 @@
     {
       "id": "7",
       "title": "Shift manager Pro ",
-      "description": "Description: A Group project to develop a shift managing application with written user storise to demonstrate the features.\nTechs Stack used: \n- HTML/CSS \n- Javalin (a Java Web Framework)\n- SQL\n- Agile methodology\n- Black box testing\n\n- ClickUp",
+      "description": "Description: A Group project to develop a shift managing application with written user storise to demonstrate the features.\nTechs Stack used: \n- HTML/CSS \n- Javalin (a Java Web Framework)\n- SQL\n- Agile methodology\n- Black box testing\n- ClickUp",
       "imageSrc": "https://images.unsplash.com/photo-1501159771943-cc9027db4d8b?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "url": "https://github.com/SEPM-P3-2/Web-Application"
     }
@@ -132,7 +132,7 @@
       "description": "Position: Waiter \n Time: 11/2020-12/2020 \nDescription: \nShowcased exceptional customer service by efficiently delivering food and beverages and resolving customer concerns or complaints"
     }    
   ],
-  "aboutpara": "A Master level software engineer graduated with top academic results and a full right to work in Australia. Throughout my studies at RMIT, I have completed multiple projects demonstrating my skills and abilities in designing, developing, and testing software applications using various technologies and tools, such as ReactJS, Django, Google Cloud, Flutter, Firebase, Java, Python, C++, GitHub, and Agile. With a strong passion and excitement for software development, I strongly believe that I will make a huge contribution to projects in the industry.",
+  "aboutpara": "A Master level software engineer/ICT specialist graduated with top academic results and a full right to work in Australia. Throughout my studies at RMIT, I have completed multiple projects demonstrating my skills and abilities in designing, developing, and testing software applications using various technologies and tools, such as ReactJS, Django, Google Cloud, Flutter, Firebase, Java, Python, C++, GitHub, and Agile. With a strong passion and excitement for software development, I strongly believe that I will make a huge contribution to projects in the industry.",
   "resume": {
     "tagline": "👋  I'm a software engineer, product designer.",
     "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",

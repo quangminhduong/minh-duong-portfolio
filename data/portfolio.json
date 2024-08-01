@@ -2,7 +2,7 @@
   "name": "Quang Minh Duong",
   "headerTaglineOne": "Hello 👋",
   "headerTaglineTwo": "I'm Minh,",
-  "headerTaglineThree": "a Software Developer/ICT Support Engineer,",
+  "headerTaglineThree": "a Software Engineer,",
   "headerTaglineFour": "based in Melbourne, Australia.",
   "showCursor": false,
   "showBlog": false,
@@ -48,30 +48,36 @@
       "imageSrc": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?q=80&w=2650&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "url": "https://github.com/quangminhduong/Loop-Cinemas"
     },
-    
     {
       "id": "4",
+      "title": "SimpleMusictify",
+      "description": "An Individual project to create a music list manager application\nTechs Stack used: \n- Flask \n- HTML \n- CSS \n- AWS",
+      "imageSrc": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?q=80&w=2650&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://github.com/quangminhduong/SimpleMusictifyApp"
+    },
+    {
+      "id": "5",
       "title": "Tower Defence Game",
       "description": "An Individual project to create a simple game about a tower defence game \nTechs Stack used: \n- Unity Engine (Version 2021.3.15.f1) \n- C# \n- A* path finding algorithm",
       "imageSrc": "https://images.unsplash.com/photo-1560419015-7c427e8ae5ba?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "url": "https://github.com/quangminhduong/Tower-Defense-Game"
     },
     {
-      "id": "5",
+      "id": "6",
       "title": "My Health Application",
       "description": "An Individual project to create an application with user-friendly GUI for healthcare professionals to manage patient records \nTechs Stack used: \n- JavaFX (a Java GUI Framework) \n- SQL\n",
       "imageSrc": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "url": "https://github.com/quangminhduong/MyHealthApplication"
     },
     {
-      "id": "6",
+      "id": "7",
       "title": "Qwirkle Game",
       "description": "Description: A Group project to develop a Qwirkle game with user-friendly implementation of game rules and features.\nTechs Stack used: \n- C++ \n- Black box testing\n",
       "imageSrc": "https://images.unsplash.com/photo-1566694271453-390536dd1f0d?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "url": "https://github.com/quangminhduong/Qwirkle-Game"
     },
     {
-      "id": "7",
+      "id": "8",
       "title": "Shift manager Pro ",
       "description": "Description: A Group project to develop a shift managing application with written user storise to demonstrate the features.\nTechs Stack used: \n- HTML/CSS \n- Javalin (a Java Web Framework)\n- SQL\n- Agile methodology\n- Black box testing\n- ClickUp",
       "imageSrc": "https://images.unsplash.com/photo-1501159771943-cc9027db4d8b?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -91,11 +97,16 @@
     },
     {
       "id": "3",
+      "title": "AWS Certified Cloud Practitioner ",
+      "description": "Issued 08/2024 - Expires 08/2027"
+    },
+    {
+      "id": "4",
       "title": "Pearson PTE Academic",
       "description": "Score: 81/90"
     },
     {
-      "id": "4",
+      "id": "5",
       "title": "Victoria Driver License",
       "description": ""
     }
@@ -104,7 +115,7 @@
     {
         "id": "1",
         "title": "Magnolia Cakes and Cupcakes",
-        "description": "Position: Software Engineer Intern \n Time: 08/2023-11/2023 \nDescription: \n•Demonstrated collaboration and problem-solving skills with a team to develop an e-commerce website\n•Demonstrated my ability on React, to develop the frontend, and Django for the backend, utilizing PostgreSQL for database management\n•Deployed the application on Google Cloud and GoDaddy, demonstrating proficiency in cloud services and web hosting\n•Applied Scrum methodologies, and leveraged GitHub and Jira for efficient project management, version control, documentation maintenance, and collaborative development\n•Conducted effective communication through sprint retrospectives and weekly meetings, fostering a cohesive team environment and ensuring alignment with project goals"
+        "description": "Position: Web Developer Intern \n Time: 08/2023-11/2023 \nDescription: \n•Demonstrated collaboration and problem-solving skills with a team to develop an e-commerce website\n•Demonstrated my ability on React, to develop the frontend, and Django for the backend, utilizing PostgreSQL for database management\n•Deployed the application on Google Cloud and GoDaddy, demonstrating proficiency in cloud services and web hosting\n•Applied Scrum methodologies, and leveraged GitHub and Jira for efficient project management, version control, documentation maintenance, and collaborative development\n•Conducted effective communication through sprint retrospectives and weekly meetings, fostering a cohesive team environment and ensuring alignment with project goals"
     },
     {
         "id": "2",
@@ -114,7 +125,7 @@
     {
         "id": "3",
         "title": "Rogue Media",
-        "description": "Position: Software Engineer Intern \n Time: 08/2021-11/2021 \nDescription: \n•Demonstrated collaboration skills with a team to develop \"Student on Campus,\" a mobile application\n•Utilized the Flutter framework to build the application, ensuring a cross-platform and user-friendly experience\n•Managed the database on Google Firebase, demonstrating expertise in cloud-based database management and real-time data synchronization\n•Applied Agile methodologies and leveraged GitHub for efficient project management, version control, documentation maintenance, and collaborative development "
+        "description": "Position: Mobile Application Developer Intern \n Time: 08/2021-11/2021 \nDescription: \n•Demonstrated collaboration skills with a team to develop \"Student on Campus,\" a mobile application\n•Utilized the Flutter framework to build the application, ensuring a cross-platform and user-friendly experience\n•Managed the database on Google Firebase, demonstrating expertise in cloud-based database management and real-time data synchronization\n•Applied Agile methodologies and leveraged GitHub for efficient project management, version control, documentation maintenance, and collaborative development "
     },
     {
     "id": "4",
@@ -132,7 +143,7 @@
       "description": "Position: Waiter \n Time: 11/2020-12/2020 \nDescription: \nShowcased exceptional customer service by efficiently delivering food and beverages and resolving customer concerns or complaints"
     }    
   ],
-  "aboutpara": "A Master level software engineer/ICT specialist graduated with top academic results and a full right to work in Australia. Throughout my studies at RMIT, I have completed multiple projects demonstrating my skills and abilities in designing, developing, and testing software applications using various technologies and tools, such as ReactJS, Django, Google Cloud, Flutter, Firebase, Java, Python, C++, GitHub, and Agile. With a strong passion and excitement for technology, I strongly believe that I will make a huge contribution to projects in the industry.",
+  "aboutpara": "A Master level IT graduate with top academic results and a full right to work in Australia. Throughout my studies at RMIT, I have completed multiple projects demonstrating my skills and abilities in designing, developing, and testing software applications using various technologies and tools, such as ReactJS, Django, Google Cloud, Flutter, Firebase, Java, Python, C++, GitHub, and Agile. With a strong passion and excitement for technology, I strongly believe that I will make a huge contribution to projects in the industry.",
   "resume": {
     "tagline": "👋  I'm a software engineer, product designer.",
     "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
